@@ -1,6 +1,6 @@
 #/*******************************************************************************
 #Autor: Lucas Gabriel da Silva Lima Reis
-#Componente Curricular: Algoritmos I
+#Componente Curricular: Algoritmos
 #Concluido em: 14/08/2019
 #******************************************************************************************/
 
