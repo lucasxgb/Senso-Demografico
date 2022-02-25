@@ -319,10 +319,5 @@ def menu(): #criação de um menu para exibição da respostas
 
 
 
-
-
-
-
-
 print(menu())
 
